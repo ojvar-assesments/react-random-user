@@ -9,7 +9,7 @@
 To start the project, run command:
 
 ```bash
-bun bun-dev
+npm run dev
 ```
 
 ##
