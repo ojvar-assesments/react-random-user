@@ -1,0 +1,20 @@
+@keyframes highlight {
+  0% {
+    background-color: initial;
+    border-color: initial;
+  }
+
+  50% {
+    background-color: yellow;
+    border-color: yellow;
+  }
+
+  100% {
+    background-color: initial;
+    border-color: initial;
+  }
+}
+
+.user-card {
+  animation: highlight 2s ease-in-out;
+}
